@@ -1,3 +1,4 @@
 # 节点列表
 
 ssr://d3d3LmdlaWxpZ2EuZ2E6MTMzNDpvcmlnaW46Y2hhY2hhMjAtaWV0ZjpwbGFpbjphbWx1ZUdsdU1EQXcvP29iZnNwYXJhbT0mcmVtYXJrcz1SME5R
+ssr://cHJvLmNuc3oxLjF2MS5saW5rOjE0NTExOm9yaWdpbjpjaGFjaGEyMDpwbGFpbjphbWx1ZUdsdU1EQXcvP29iZnNwYXJhbT0mcmVtYXJrcz1lbm8
